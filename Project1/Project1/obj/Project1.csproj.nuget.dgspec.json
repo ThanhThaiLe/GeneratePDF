@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\generatePdf\\Project1\\Project1\\Project1.csproj": {}
+    "D:\\Github\\GeneratePDF\\Project1\\Project1\\Project1.csproj": {}
   },
   "projects": {
-    "D:\\generatePdf\\Project1\\Project1\\Project1.csproj": {
+    "D:\\Github\\GeneratePDF\\Project1\\Project1\\Project1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\generatePdf\\Project1\\Project1\\Project1.csproj",
+        "projectUniqueName": "D:\\Github\\GeneratePDF\\Project1\\Project1\\Project1.csproj",
         "projectName": "Project1",
-        "projectPath": "D:\\generatePdf\\Project1\\Project1\\Project1.csproj",
+        "projectPath": "D:\\Github\\GeneratePDF\\Project1\\Project1\\Project1.csproj",
         "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
-        "outputPath": "D:\\generatePdf\\Project1\\Project1\\obj\\",
+        "outputPath": "D:\\Github\\GeneratePDF\\Project1\\Project1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
